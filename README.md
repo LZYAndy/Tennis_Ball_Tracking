@@ -3,8 +3,10 @@
 * The models for the single-frame detection can be downloaded from [here](https://drive.google.com/file/d/1PNug-KgwoD9mWWg1g8RoCVdF4HQQh8cm/view?usp=sharing), and saved at **models/single_image_models**  
 * The model for the three-frame detection can be downloaded from [here](https://drive.google.com/file/d/1-laZJtwzTkGMJv5q7e-MAjShDJiYbUqB/view?usp=sharing), and saved at **models/spatial_temporal_models**  
 * The model for the five-frame detection can be downloaded from [here](https://drive.google.com/file/d/1R6PNKrFwL4ZPhR2wJNqpNJh0OXc477Cd/view?usp=sharing), and saved at **models/spatial_temporal_models**  
-* The model for the seven-frame detection can be downloaded from [here](https://drive.google.com/file/d/1B2Fn74gqOsID3Ym55uG2-PTwtjaHD59R/view?usp=sharing), and saved at **models/spatial_temporal_models**  
+* The model for the seven-frame detection can be downloaded from [here](https://drive.google.com/file/d/1B2Fn74gqOsID3Ym55uG2-PTwtjaHD59R/view?usp=sharing), and saved at **models/spatial_temporal_models**
 
+# Tennis MDP model
+The tennis MDP model is implemented in PCSP# language in 'tennis.txt'. You can use the PAT model checker to perform the probabilistic model checking.
 
 # Soccer ball tracking
 * The training and testing images, csv files, python scripts and trained model weights can be downloaded from [here](https://drive.google.com/file/d/1IZ9RJTUu6pnPT3reZWfpe-v2BwfVdsDw/view?usp=sharing). The whole dataset is about 3.8GB.
